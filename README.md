@@ -1,2 +1,2 @@
-# C-Trash-Collection
+C# Trash-Collection
 Hare is my dummy C# code
